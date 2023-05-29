@@ -13,3 +13,5 @@ Projeto criado com as bibliotecas React JS e Material UI.
    `
    npm start
    `
+4. Mudei o título e a tamanho da Barra   
+  
